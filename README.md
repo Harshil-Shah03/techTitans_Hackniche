@@ -2,6 +2,13 @@
 ### check out our documentation on this site: [GrowthSync-Analytics](https://chrome-month-765.notion.site/GrowthSync-Analytics-51ec8a1bd4ba487e848e7aa25a28e04f?pvs=25)
 
 
+##Flow Chart
+![image](https://github.com/Harshil-Shah03/techTitans_Hackniche/assets/128024088/fb21b5e2-bd05-4b60-af4f-bd475c133ade)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
