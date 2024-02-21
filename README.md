@@ -1,4 +1,4 @@
-##Documentation
+## Documentation
 check out our documentation on this site: [GrowthSync-Analytics](https://chrome-month-765.notion.site/GrowthSync-Analytics-51ec8a1bd4ba487e848e7aa25a28e04f?pvs=25)
 
 
